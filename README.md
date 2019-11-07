@@ -1,2 +1,2 @@
 # Code-Skeletons
-Repo for storing skeletons for different kinds of programming languages
+Repo for storing skeletons for different programming languages
